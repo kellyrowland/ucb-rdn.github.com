@@ -1,5 +1,5 @@
-CNERG Documentation
-====================
+UCB-RDN Documentation
+======================
 
 (Note: Sphinx versions higher than 1.1.2 are required.)
 
@@ -92,3 +92,10 @@ Best practice for managing a pull request
 
      ```make gh-publish```
 
+
+Acknowledgements
+-----------------
+
+This build workflow and readme instructions were inspired by the instructions 
+at :
+http://blog.nikhilism.com/2012/08/automatic-github-pages-generation-from.html 
