@@ -9,7 +9,7 @@ She is a lovely lady :
 
 .. image:: neutron.png
    :height: 100px
-   :width: 200 px
+   :width: 100 px
    :scale: 50 %
    :alt: Dr. Nancy Neutron
-   :align: right
+   :align: left
