@@ -14,6 +14,19 @@ files should be made in the `source` branch.
 content that is derived by Sphinx from the `source` branch.  These
 files should not be editted directly.
 
+First Steps 
+-----------
+
+1. Fork this repository (upper right hand corner of this site)
+
+2. Clone your fork
+   
+   ```git clone git@github.com:yourusername/ucb-rdn.github.com```
+
+3. Add this repository as a remote called `upstream`
+
+   ```git remote add upstream git@github.com:ucb-rdn/ucb-rdn.github.com``` 
+
 Best practice workflow for contributing to site changes
 --------------------------------------------------------
 
