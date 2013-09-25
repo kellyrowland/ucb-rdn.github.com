@@ -39,3 +39,12 @@ This work has generated a number of publications.
 
    publications/main
 
+Page
+----
+
+How to edit this page : 
+
+.. toctree::
+   :maxdepth: 2
+
+   page/main
