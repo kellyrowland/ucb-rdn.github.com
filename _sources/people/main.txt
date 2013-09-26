@@ -14,6 +14,7 @@ Staff
 
 .. toctree::
    
+   seifried_jeffrey
    schmoe_joe
 
 
