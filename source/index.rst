@@ -29,6 +29,22 @@ A number of researchers contribute to its work.
    people/main
 
 
+Presentations
+-------------
+
+Selected presentations from weekly meetings.
+
+.. toctree::
+   :maxdepth: 2
+
+   presentations/main
+
+.. toctree::
+   :maxdepth: 2
+
+   presentations/pdf/*.pdf
+
+
 Publications
 ------------
 
@@ -38,6 +54,7 @@ This work has generated a number of publications.
    :maxdepth: 2
 
    publications/main
+
 
 Page
 ----
