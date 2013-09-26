@@ -39,11 +39,6 @@ Selected presentations from weekly meetings.
 
    presentations/main
 
-.. toctree::
-   :maxdepth: 2
-
-   presentations/pdf/*.pdf
-
 
 Publications
 ------------
