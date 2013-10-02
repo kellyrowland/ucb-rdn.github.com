@@ -17,6 +17,8 @@ files should not be editted directly.
 First Steps 
 -----------
 
+0. Set up ssh keys for git:  https://help.github.com/articles/generating-ssh-keys
+
 1. Fork this repository (upper right hand corner of this site)
 
 2. Clone your fork
