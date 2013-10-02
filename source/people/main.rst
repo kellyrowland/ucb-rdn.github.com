@@ -23,6 +23,7 @@ Students
 
 .. toctree::
    
+   bergmann_ryan
    doe_jane
    isotope_igor
 
