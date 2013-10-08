@@ -1,5 +1,5 @@
-Dr. Kathryn (Katy) Huff 
-=======================
+Dr. Kathryn (Katy) Huff, Postdoctoral Scholar 
+=============================================
 
 .. image:: huff_katy.jpg
    :height: 150px
