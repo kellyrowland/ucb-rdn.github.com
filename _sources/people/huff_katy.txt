@@ -23,13 +23,16 @@ Dr. Kathryn (Katy) Huff, Postdoctoral Scholar
 Contact Information
 --------------------
 
-| 4151 Etcheverry
-| 2521 Hearst Ave 
-| Berkeley, CA 94709
-| `email`_
-| `Personal website <http://katyhuff.github.com>`_
-| `Calendar <http://www.google.com/calendar/embed?src=katyhuff%40gmail.com&ctz=America/Chicago>`_
+
+| `Email`_ 
+| `Calendar <http://bit.ly/nNEP6U>`_ 
 | `Twitter <twitter.com/katyhuff>`_
+| `homepage`_
+|
+| 2150 Shattuck Ave, room 230
+| OR
+| 2521 Hearst Ave, room 4151 
+| Berkeley, CA 94709
 
 Postdoctoral Appointment
 -------------------------
@@ -37,7 +40,9 @@ Postdoctoral Appointment
 I am a Nuclear Science and Security Consortium Postdoctoral Scholar at the 
 University of California - Berkeley. In this position, I facilitate the 
 sophisticated use of computational tools and develop models, tools, and methods 
-for analysis of advanced reactors and fuel cycles.  
+for analysis of advanced reactors and fuel cycles. Most of my research takes 
+place within the research groups of Professor Jasmina Vujic |accent| 
+and Professor Per Peterson.
 
 Research Interests
 --------------------
@@ -78,4 +83,6 @@ and `curriculum vitae <http://katyhuff.github.com/papers/cv.pdf>`_
 for more information.
 
 .. _homepage: http://katyhuff.github.com
-.. _email: khuff@berkeley.edu
+.. _Email: khuff@berkeley.edu
+.. |accent| unicode:: U+0301
+   :ltrim:
