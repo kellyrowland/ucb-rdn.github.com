@@ -34,7 +34,7 @@ Contact Information
 Postdoctoral Appointment
 -------------------------
 
-I am a Nuclear Science and Safety Consortium Postdoctoral Scholar at the 
+I am a Nuclear Science and Security Consortium Postdoctoral Scholar at the 
 University of California - Berkeley. In this position, I facilitate the 
 sophisticated use of computational tools and develop models, tools, and methods 
 for analysis of advanced reactors and fuel cycles.  
