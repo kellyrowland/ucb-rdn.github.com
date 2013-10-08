@@ -29,6 +29,10 @@ First Steps
 
    ```git remote add upstream git@github.com:ucb-rdn/ucb-rdn.github.com``` 
 
+4. Create a branch called master
+
+   ``` git branch master```
+
 Best practice workflow for contributing to site changes
 --------------------------------------------------------
 
