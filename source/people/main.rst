@@ -28,6 +28,7 @@ Students
    :maxdepth: 1
    
    bergmann_ryan
+   disanzo_christian
    doe_jane
    isotope_igor
 
